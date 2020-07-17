@@ -71,7 +71,7 @@ const people = [
 
 -------------------------
 
-### 4. Statless components
+### 4. Stateless components
 
 *Explain the reasoning behind a stateless component along with a small code example. Use React or Vue.*
 
