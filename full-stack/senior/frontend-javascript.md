@@ -9,7 +9,7 @@ Below are senior level frontend javascript developer Q&As.
 *e.g.* `{ id: '2', name: 'Rolf', species: 'cat' }`
 
 * Clean and expressive
-* Follows solid principals
+* SOLID
 * Testable
 * Should not mutate original value (immutability)
 * Over engineer it... show off :-) 
