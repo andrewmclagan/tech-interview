@@ -8,7 +8,8 @@ Below are senior level frontend javascript developer Q&As.
 
 *e.g.* `{ id: '2', name: 'Rolf', species: 'cat' }`
 
-*Demonstrate your most expressive, clean, testable and ES6 compatible code*
+** Demonstrate your most expressive, clean, testable and ES6 compatible code*
+** Must be immutable*
 
 ```javascript
 const petIds = ['2','3','5'];
