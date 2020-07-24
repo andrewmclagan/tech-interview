@@ -8,8 +8,11 @@ Below are senior level frontend javascript developer Q&As.
 
 *e.g.* `{ id: '2', name: 'Rolf', species: 'cat' }`
 
-* Demonstrate your most expressive, clean, testable and ES6 compatible code
-* Must be immutable
+* Clean and expressive
+* Follows solid principals
+* Testable
+* Should not mutate original value (immutability)
+* Over engineer it... show off :-) 
 
 ```javascript
 const petIds = ['2','3','5'];
