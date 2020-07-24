@@ -4,7 +4,7 @@ Below are senior level frontend javascript developer Q&As.
 
 ### 1. ES6 functional javascript code
 
-*Below is an array of people and their pets, along with an array of pet IDs. Write some code that takes two inputs: `people` and `petIds` and returns the original `people` array and for each matching pet id insert a property `{ species: 'cat' }` into matching pet object.*
+*Below is an array of people and their pets, along with an array of pet IDs. Write some code that takes two inputs: `people` and `petIds` and returns the original `people` array and for each matching pet id insert a property `{ species: 'cat' }` into matching pet object. You may have to use elements of these routines elsewhere in your application.*
 
 *e.g.* `{ id: '2', name: 'Rolf', species: 'cat' }`
 
